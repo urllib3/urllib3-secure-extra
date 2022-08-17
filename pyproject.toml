@@ -22,6 +22,7 @@ dynamic = ["version"]
 
 [project.urls]
 "Source Code" = "https://github.com/urllib3/urllib3-secure-extra"
+"homepage" = "https://github.com/urllib3/urllib3/issues/2680"
 
 [tool.flit.module]
 name = "urllib3_secure_extra"
